@@ -1,0 +1,14 @@
+{
+    "name": "ash/autoload",
+    "description": "Autoloader",
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Achille",
+            "email": "achillebellay@gmail.com"
+        }
+    ],
+    "require": {}
+}
